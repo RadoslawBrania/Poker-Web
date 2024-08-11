@@ -36,11 +36,8 @@ main {
     padding: 20px;
 }
 
-.button{
+.joinbutton {
     display: inline-block;
-}
-
-.button1{
     background-color: transparent;
     background-repeat: no-repeat;
     padding: 20px;
@@ -48,13 +45,56 @@ main {
     border: 3px solid #fff;
     transition: 0.5s;
     position: absolute;
-    width: 10%; 
 }
 
-.button1.with-margin {
-    margin: auto 10px;
-}
-
-.button1:hover {
+.joinbutton:hover {
     border: 3px solid #000;
+}
+
+.button1 {
+    top: 80%;
+    right: 45.5%;
+    width: 10%;
+}
+
+.button2 {
+    top: 80%;
+    right: 24.5%;
+    width: 10%;
+}
+
+.button3 {
+    top: 45%;
+    right: 85%;
+    width: 10%;
+}
+
+.button4 {
+    top: 9%;
+    right: 24.5%;
+    width: 10%;
+}
+
+.button5 {
+    top: 9%;
+    right: 45.5%;
+    width: 10%;
+}
+
+.button6 {
+    top: 9%;
+    right: 67%;
+    width: 10%;
+}
+
+.button7 {
+    top: 45%;
+    right: 6%;
+    width: 10%;
+}
+
+.button8 {
+    top: 80%;
+    right: 67%;
+    width: 10%;
 }
